@@ -1,4 +1,7 @@
-## Hi there 👋
+## Olá, eu sou o Jader.
+
+-Estou em curso técnico de informática
+-Atualmente estou estudando C++
 
 <!--
 **jerodown/jerodown** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
