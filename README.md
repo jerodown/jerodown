@@ -1,3 +1,6 @@
+[![MasterHead](https://auroraboreal.com.br/wp-content/uploads/2025/04/aurora-boreal-finlandia-marco-brotto.jpg)](https://github.com/jerodown)
+
+
 ## Olá, eu sou o Jader.
 
 -Estou em curso técnico de informática
@@ -5,6 +8,8 @@
 
 -Atualmente estou estudando C++
 
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
 <!--
 **jerodown/jerodown** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
