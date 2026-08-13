@@ -1,5 +1,4 @@
-[![MasterHead](<img width="2301" height="864" alt="banner" src="https://github.com/user-attachments/assets/54a1d291-a1a5-46a4-b800-1b12cefa6d30" />
-)](https://github.com/jerodown)
+[![banner](https://github.com/user-attachments/assets/54a1d291-a1a5-46a4-b800-1b12cefa6d30)](https://github.com/jerodown)
 # 👋 Olá, eu sou Jader!
 
 Graduando / Estudante do curso técnico integrado em **Informática** 💻✨
@@ -47,6 +46,3 @@ Graduando / Estudante do curso técnico integrado em **Informática** 💻✨
 
 ---
 
-<div align="center">
-  <sub>Criado com ❤️ enquanto estudo Informática!</sub>
-</div>
