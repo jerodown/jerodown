@@ -9,7 +9,7 @@
 -Atualmente estou estudando C++
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jerodown)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jerodown&theme=highcontrast)](https://git.io/streak-stats)
 <!--
 **jerodown/jerodown** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
