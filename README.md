@@ -33,18 +33,19 @@ Graduando / Estudante do curso técnico integrado em **Informática** 💻✨
 ### 📈 Estatísticas do GitHub
 
 <div align="center">
+  <!-- 1. Streak Stats (URL Oficial Atualizada) -->
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=jerodown&theme=dark&card_width=700&card_height=250" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=jerodown&theme=dark&hide_border=true" alt="GitHub Streak" />
   </a>
 
   <br><br>
 
-  <!-- Usando o servidor seguro/mirror alternativo com suporte ao tema radial -->
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=jerodown&show_icons=true&theme=radial&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub" height="150"/>
+  <!-- 2. Estatísticas do GitHub (Servidor Principal Estável) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=jerodown&show_icons=true&theme=radial&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub" height="160"/>
   
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jerodown&layout=compact&theme=radial&hide_border=true&locale=pt-br" alt="Linguagens Mais Usadas" height="150"/>
+  <!-- 3. Linguagens Mais Usadas (Servidor Principal Estável) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerodown&layout=compact&theme=radial&hide_border=true&locale=pt-br" alt="Linguagens Mais Usadas" height="160"/>
 </div>
-
 ---
 
 ### 📫 Como me encontrar
