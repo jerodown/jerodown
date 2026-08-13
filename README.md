@@ -31,9 +31,9 @@ Graduando / Estudante do curso técnico integrado em **Informática** 💻✨
 ---
 
 ### 📈 Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=jerodown&show_icons=true)
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=jerodown&layout=compact)
 
 <div align="center">
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=jerodown&theme=dark&card_width=700&card_height=250" alt="GitHub Streak" /></a>
