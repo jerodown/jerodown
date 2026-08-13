@@ -32,10 +32,11 @@ Graduando / Estudante do curso técnico integrado em **Informática** 💻✨
 
 ### 📈 Estatísticas do GitHub
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jerodown&theme=dark&card_width=700&card_height=250)](https://git.io/streak-stats)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radial&hide_border=true" alt="Estatísticas do GitHub" height="150"/>
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jerodown&theme=dark&card_width=700&card_height=250)](https://git.io/streak-stats)
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radial&hide_border=true" alt="Linguagens Mais Usadas" height="150"/>
 </div>
 
