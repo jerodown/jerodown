@@ -33,18 +33,9 @@ Graduando / Estudante do curso técnico integrado em **Informática** 💻✨
 ### 📈 Estatísticas do GitHub
 
 <div align="center">
-  <!-- 1. Streak Stats (URL Oficial Atualizada) -->
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=jerodown&theme=dark&hide_border=true" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=jerodown&theme=dark&card_width=700&card_height=250" alt="GitHub Streak" />
   </a>
-
-  <br><br>
-
-  <!-- 2. Estatísticas do GitHub (Servidor Principal Estável) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=jerodown&show_icons=true&theme=radial&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub" height="160"/>
-  
-  <!-- 3. Linguagens Mais Usadas (Servidor Principal Estável) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerodown&layout=compact&theme=radial&hide_border=true&locale=pt-br" alt="Linguagens Mais Usadas" height="160"/>
 </div>
 ---
 
