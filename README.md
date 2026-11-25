@@ -39,10 +39,3 @@ Graduando / Estudante do curso técnico integrado em **Informática** 💻✨
 </div>
 ---
 
-### 📫 Como me encontrar
-
-- 💼 **LinkedIn:** [seu-perfil](https://www.linkedin.com/in/seu-perfil/)
-- 📧 **E-mail:** seu.email@exemplo.com
-
----
-
